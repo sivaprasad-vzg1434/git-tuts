@@ -1,2 +1,3 @@
 example file created for git repository
 Hello
+Hi
